@@ -1,0 +1,36 @@
+diff -Naur megatunix-0.9.23/menu/dashdesigner.desktop.in megatunix-0.9.23.oden/menu/dashdesigner.desktop.in
+--- megatunix-0.9.23/menu/dashdesigner.desktop.in	2010-07-15 05:33:21.000000000 +0200
++++ megatunix-0.9.23.oden/menu/dashdesigner.desktop.in	2012-01-31 17:29:03.955746571 +0100
+@@ -7,4 +7,4 @@
+ Exec=dashdesigner
+ Icon=dashdesigner
+ Type=Application
+-Categories=Automotive;Other;Utility
++Categories=Automotive;Other;Utility;
+diff -Naur megatunix-0.9.23/menu/gaugedesigner.desktop.in megatunix-0.9.23.oden/menu/gaugedesigner.desktop.in
+--- megatunix-0.9.23/menu/gaugedesigner.desktop.in	2010-07-15 05:33:21.000000000 +0200
++++ megatunix-0.9.23.oden/menu/gaugedesigner.desktop.in	2012-01-31 17:29:08.447715428 +0100
+@@ -7,4 +7,4 @@
+ Exec=gaugedesigner
+ Icon=gaugedesigner
+ Type=Application
+-Categories=Automotive;Other;Utility
++Categories=Automotive;Other;Utility;
+diff -Naur megatunix-0.9.23/menu/megatunix.desktop.in megatunix-0.9.23.oden/menu/megatunix.desktop.in
+--- megatunix-0.9.23/menu/megatunix.desktop.in	2010-07-15 05:33:21.000000000 +0200
++++ megatunix-0.9.23.oden/menu/megatunix.desktop.in	2012-01-31 17:29:12.765715269 +0100
+@@ -7,4 +7,4 @@
+ Exec=megatunix
+ Icon=megatunix
+ Type=Application
+-Categories=Automotive;Favorites,Other;Utility
++Categories=Automotive;Favorites,Other;Utility;
+diff -Naur megatunix-0.9.23/menu/mtxloader.desktop.in megatunix-0.9.23.oden/menu/mtxloader.desktop.in
+--- megatunix-0.9.23/menu/mtxloader.desktop.in	2010-07-15 05:33:21.000000000 +0200
++++ megatunix-0.9.23.oden/menu/mtxloader.desktop.in	2012-01-31 17:29:16.665809018 +0100
+@@ -7,4 +7,4 @@
+ Exec=mtxloader
+ Icon=mtxloader
+ Type=Application
+-Categories=Automotive;Favorites,Other;Utility
++Categories=Automotive;Favorites,Other;Utility;
