@@ -86,3 +86,14 @@ done
 %{_miconsdir}/*.png
 %{_iconsdir}/*.png
 %{_liconsdir}/*.png
+
+
+%changelog
+* Tue Jan 31 2012 Oden Eriksson <oeriksson@mandriva.com> 0.9.23-0.1mdv2011.0
++ Revision: 770083
+- various fixes
+- import megatunix
+
+
+* Sat Jan 28 2012 Oden Eriksson <oeriksson@mandriva.com> 0.9.23-1
+- first cut (even though i don't have use for it, yet :-))
