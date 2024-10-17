@@ -13,7 +13,7 @@ Version:	0.9.23
 Release:	%release
 License:	GPLv2+
 Group:		Networking/Other
-URL:		http://sourceforge.net/projects/megatunix
+URL:		https://sourceforge.net/projects/megatunix
 Source0:	http://sourceforge.net/projects/megatunix/files/MegaTunix/%{version}/%{name}-%{version}.tar.gz
 Patch0:		megatunix-0.9.23-glib_fix.diff
 Patch1:		megatunix-0.9.23-menu_fixes.diff
